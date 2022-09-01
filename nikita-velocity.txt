@@ -1,0 +1,15 @@
+User name---nikita-velocity
+Password---AKIATIL5LQ4PBHFWKHAO
+Access key ID----LumWjN7gs6T14sR4WwzDEOI97df9jBRZOhJPawPN
+Secret access key----
+Console login link----https://224138069790.signin.aws.amazon.com/console
+
+
+
+
+user name-----nikita-velocity1
+password-----
+access key id----AKIATIL5LQ4PGPSELWMG 
+secrete access key----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
+console login link------
+
